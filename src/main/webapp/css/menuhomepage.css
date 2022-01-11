@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+
+.center{
+	position:absolute; 
+	top:10%;
+	left:40%;
+}
+
+.topnav{
+	text-align:top-right;
+	top:70%;
+	left:50%;
+	position:absolute;
+	transform: translate(-50%, -50%);
+	margin:5px;
+}
+
+#a1{
+	
+	background-color:red;
+	height:60px;
+	width:130px;
+	text-align:center;
+	padding:0px;
+	margin:12px;
+}

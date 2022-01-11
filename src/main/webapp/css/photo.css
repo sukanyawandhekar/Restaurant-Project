@@ -1,0 +1,61 @@
+@charset "ISO-8859-1";
+
+#images1
+{
+	top:1%;
+	left:1%;
+	position:absolute;
+	height:30px;
+	width:20px;
+	margin:2;
+}
+
+#images2
+{
+	top:30%;
+	left:30%;
+	position:absolute;
+	height:10px;
+	width:20px;
+	margin:2;
+}
+
+#images3
+{
+	top:40%;
+	left:35%;
+	position:absolute;
+	height:10px;
+	width:20px;
+	margin:2;
+}
+
+#images4
+{
+	top:70%;
+	left:70%;
+	position:absolute;
+	height:10px;
+	width:20px;
+	margin:2;
+}
+
+#images5
+{
+	top:1%;
+	left:70%;
+	position:absolute;
+	height:10px;
+	width:20px;
+	margin:2;
+}
+
+#images6
+{
+	top:70%;
+	left:1%;
+	position:absolute;
+	height:10px;
+	width:20px;
+	margin:2;
+}
